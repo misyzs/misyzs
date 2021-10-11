@@ -1,10 +1,3 @@
-### Hi There! Im Musinho 😳
-
-- 🔭 I’m currently Studing.
-- 🌱 I’m currently learning Java & Java Script  
-- 📫 How to reach me: misy#5898
-- 😄 Pronouns: Him/He
-
 <img src="https://github.com/thomazgg/thomazgg/raw/main/github3.png" /> 
 
 <div>
